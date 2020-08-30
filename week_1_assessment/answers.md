@@ -1,6 +1,7 @@
 
 
-Question 1:
+----------Question 1:-----------
+
 var = 'variable'
 String
 
@@ -14,8 +15,7 @@ Boolean
 
 
 
-Question 2:
-
+----------Question 2:-----------
 
 both_cars = [car_1, car_2]
 
@@ -25,4 +25,15 @@ car_2 = { wheels: 4, max_speed: 200, colors: 'white' }
 both_cars = [car_1, car_2]
 
 both_cars [1][:colors]
+
+
+
+----------Question 3:-----------
+
+Classes and methods
+
+
+
+----------Question 4:-----------
+
 
